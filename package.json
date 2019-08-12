@@ -8,7 +8,7 @@
     "Christian Zommerfelds <aero_super@yahoo.com>"
   ],
   "dependencies": {
-    "spdx-expression-parse": "^2.0.1",
+    "spdx-expression-parse": "^2.0.2",
     "spdx-license-ids": "^2.0.1"
   },
   "devDependencies": {
